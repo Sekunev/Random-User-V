@@ -1,24 +1,41 @@
-# API Base URLs
+# Random-User-App-V2
 
-## https://tutorials-api-cw.herokuapp.com/api/tutorials
+### Check The Live Website ➡️ [Live Website](https://sekunev-random-user-app.netlify.app//)
 
-## https://axios-example-cw.herokuapp.com/api/tutorials
+### Description
 
-## https://cw-axios-example.herokuapp.com/api/tutorials
+Project aims to create a Random User App 2.
 
-### API ENDPOINTS
+### Visualization of the Website
 
-- GET `api/tutorials` get all Tutorials
-- GET `api/tutorials/:id` get Tutorial by id
-- POST `api/tutorials` add new Tutorial
-- PUT `api/tutorials/:id` update Tutorial by id
-- DELETE `api/tutorials/:id` remove Tutorial by id
-- DELETE `api/tutorials` remove all Tutorials
-- GET `api/tutorials/published` find all published Tutorials
-- GET `api/tutorials?title=[keyword]` find all Tutorials which title contains 'keyword'
+![image](https://github.com/Sekunev/Random-User-App/blob/main/Animation.gif)
 
-# Deployed Frontend
+### Project Skeleton
 
-## https://axios-example.netlify.app/
+```
+Random-User-App (folder)
+|
+|----readme.md
+SOLUTION
+├── public
+│     └── index.html
+├── src
+│    ├── components
+│    │       └── footer.css
+│    │              ├── Footer.css
+│    │              └── Footer.js
+│    ├── assest
+│    │       ├── cw.svg
+│    │       ├── desing.svg
+│    │       └── growing-up-woman.svg...
+│    ├── App.js
+│    ├── Animation.gif
+│    ├── index.js
+│    └── index.css
+├── package.json
+└── yarn.lock
+```
 
-### Bu Projede Postman Kullanılmıştır.
+### Used in this project
+
+👉 I mastered ReactJS (axios, useState, Props, Style, Useeffect, Postman), HTML, CSS, SCSS, Bootstrap and Javascript features in this project. You can see the visual representation of the website above.
