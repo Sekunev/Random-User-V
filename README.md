@@ -1,6 +1,6 @@
 # Random-User-App-V2
 
-### Check The Live Website ➡️ [Live Website](https://sekunev-random-user-app.netlify.app//)
+### Check The Live Website ➡️ [Live Website](https://sekunev-random-user-app-v2.netlify.app/)
 
 ### Description
 
@@ -8,7 +8,7 @@ Project aims to create a Random User App 2.
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Random-User-App/blob/main/Animation.gif)
+![image](https://github.com/Sekunev/Random-User-V/blob/main/src/Animation.gif)
 
 ### Project Skeleton
 
