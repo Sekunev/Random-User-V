@@ -1,0 +1,29 @@
+.footer-div {
+  background-color: #aa8b56;
+  opacity: 0.9;
+  width: 80vw;
+  min-width: 400px;
+  height: 50px;
+  font-size: 1rem;
+  color: white;
+  border: 0.5px solid #aa8b56;
+  border-radius: 5px;
+  margin: 50px 0px;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+}
+footer i {
+  font-size: 1.3rem;
+  color: white;
+  padding-left: 1rem;
+  padding-top: 0.5rem;
+  transition: all 1s;
+}
+
+footer i:hover {
+  color: #4e6c50;
+}
