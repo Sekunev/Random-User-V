@@ -8,7 +8,7 @@ Project aims to create a Random User App 2.
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Random-User-App/blob/main/Animation.gif)
+![image](https://github.com/Sekunev/Random-User-V/blob/main/src/Animation.gif)
 
 ### Project Skeleton
 
