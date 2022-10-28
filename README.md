@@ -1,6 +1,6 @@
 # Random-User-App-V2
 
-### Check The Live Website ➡️ [Live Website](https://sekunev-random-user-app.netlify.app//)
+### Check The Live Website ➡️ [Live Website](https://sekunev-random-user-app-v2.netlify.app/)
 
 ### Description
 
